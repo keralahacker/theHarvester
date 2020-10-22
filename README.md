@@ -91,7 +91,7 @@ Active:
 
 Modules that require an API key:
 --------------------------------
-Documentation to setup API keys can be found at - https://github.com/laramies/theHarvester/wiki/Installation#api-keys
+Documentation to setup API keys can be found at - https://github.com/keralahacker/theHarvester/wiki
 
 * bing
 * github
@@ -107,26 +107,10 @@ Documentation to setup API keys can be found at - https://github.com/laramies/th
 Install and dependencies:
 -------------------------
 * Python 3.7+
-* https://github.com/laramies/theHarvester/wiki/Installation
-
-
-Comments, bugs and requests:
-----------------------------
-* [![Twitter Follow](https://img.shields.io/twitter/follow/laramies.svg?style=social&label=Follow)](https://twitter.com/laramies) Christian Martorella @laramies
-cmartorella@edge-security.com
-* [![Twitter Follow](https://img.shields.io/twitter/follow/NotoriousRebel1.svg?style=social&label=Follow)](https://twitter.com/NotoriousRebel1) Matthew Brown @NotoriousRebel1
-* [![Twitter Follow](https://img.shields.io/twitter/follow/jay_townsend1.svg?style=social&label=Follow)](https://twitter.com/jay_townsend1) Jay "L1ghtn1ng" Townsend @jay_townsend1
-
-
-Main contributors:
-------------------
-* [![Twitter Follow](https://img.shields.io/twitter/follow/NotoriousRebel1.svg?style=social&label=Follow)](https://twitter.com/NotoriousRebel1) Matthew Brown @NotoriousRebel1
-* [![Twitter Follow](https://img.shields.io/twitter/follow/jay_townsend1.svg?style=social&label=Follow)](https://twitter.com/jay_townsend1) Jay "L1ghtn1ng" Townsend @jay_townsend1
-* [![Twitter Follow](https://img.shields.io/twitter/follow/discoverscripts.svg?style=social&label=Follow)](https://twitter.com/discoverscripts) Lee Baird @discoverscripts 
-* [![LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/janoszold/)  Janos Zold
-
+* https://github.com/keralahacker/theHarvester/wiki
 
 Thanks:
 -------
 * John Matherly - Shodan project
 * Ahmed Aboul Ela - subdomain names dictionaries (big and small)
+* vyshu (last-de-bugger)
